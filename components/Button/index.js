@@ -15,7 +15,9 @@ const Button = ({ children, type, onClick, classes }) => {
 				onClick={onClick}
 				type="button"
 				className={`text-sm tablet:text-base p-1 laptop:p-2 m-1 laptop:m-2 rounded-lg ${
-					mounted && theme === 'dark' ? 'bg-white text-black hover:bg-slate-600' : 'bg-black text-white'
+					mounted && theme === 'dark'
+						? 'bg-white text-black hover:bg-slate-600 active:bg-slate-800'
+						: 'bg-black text-white'
 				}  transition-all duration-300 ease-out first:ml-0 hover:scale-105 active:scale-100`}
 			>
 				{children}
@@ -27,7 +29,7 @@ const Button = ({ children, type, onClick, classes }) => {
 			onClick={onClick}
 			type="button"
 			className={`text-sm tablet:text-base p-1 laptop:p-2 m-1 laptop:m-2 rounded-lg flex items-center transition-all ease-out duration-300 ${
-				mounted && theme === 'dark' ? 'hover:bg-slate-600 text-white' : 'hover:bg-slate-100'
+				mounted && theme === 'dark' ? 'hover:bg-slate-600 text-white active:bg-slate-800' : 'hover:bg-slate-100'
 			} hover:scale-105 active:scale-100  tablet:first:ml-0 ${classes}`}
 		>
 			{children}
