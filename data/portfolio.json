@@ -16,35 +16,35 @@
 			"id": "1",
 			"title": "Forkify",
 			"description": "Search for over 1 million recipes. Built with Vanilla JS, HTML, CSS, and SCSS using Object-Oriented Programming principles and MVC architecture. Design credit to Jonas Schmedtmann.",
-			"imageSrc": "/static/images/forkify.png",
+			"imageSrc": "../../static/images/forkify.png",
 			"url": "https://chris-forkify.netlify.app/"
 		},
 		{
 			"id": "2",
 			"title": "Workout Mapper",
 			"description": "A workout mapping web application built with Vanilla JavaScript and Leaflet.js to visualize workout data. Design credit to Jonas Schmedtmann.",
-			"imageSrc": "/static/images/mapty.png",
+			"imageSrc": "../../static/images/mapty.png",
 			"url": "https://workout-mapper-chris.netlify.app/"
 		},
 		{
 			"id": "3",
 			"title": "Dice Roll Game",
 			"description": "A simple game built with Vanilla JavaScript. Design credit to Jonas Schmedtmann.",
-			"imageSrc": "/static/images/dice.png",
+			"imageSrc": "../../static/images/dice.png",
 			"url": "https://dice-game-chris.netlify.app/"
 		},
 		{
 			"id": "4",
 			"title": "Personal Banking Webpage",
 			"description": "Website built with Vanilla JavaScript using modern best practices in ES6. Design credit to Jonas Schmedtmann.",
-			"imageSrc": "/static/images/banking-site.png",
+			"imageSrc": "../../static/images/banking-site.png",
 			"url": "https://personal-banking-webpage-chris.netlify.app/"
 		},
 		{
 			"id": "5",
 			"title": "Personal Banking Application",
 			"description": "Web application for online banking built with Vanilla JavaScript. Design credit to Jonas Schmedtmann.",
-			"imageSrc": "/static/images/banking-app.png",
+			"imageSrc": "../../static/images/banking-app.png",
 			"url": "https://personal-banking-chris.netlify.app/"
 		},
 		{
