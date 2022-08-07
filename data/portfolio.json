@@ -1,8 +1,8 @@
 {
-	"name": "Christopher",
+	"name": "Christopher Savan",
 	"headerTaglineOne": "Hello 👋",
-	"headerTaglineTwo": "I'm Christopher Savan - curious",
-	"headerTaglineThree": "developer and aspiring freelancer",
+	"headerTaglineTwo": "I'm Chris - a curious",
+	"headerTaglineThree": "developer and freelancer",
 	"headerTaglineFour": " based in New York, NY.",
 	"showBlog": false,
 	"darkMode": false,
@@ -35,7 +35,7 @@
 		},
 		{
 			"id": "4",
-			"title": "Perosnal Banking Webpage",
+			"title": "Personal Banking Webpage",
 			"description": "Website built with Vanilla JavaScript using modern best practices in ES6. Design credit to Jonas Schmedtmann.",
 			"imageSrc": "../static/images/banking-site.png",
 			"url": "https://personal-banking-webpage-chris.netlify.app/"
@@ -67,5 +67,7 @@
 			"description": "I can help with the creation or modification of backend services and can seamlessly tie them to the client."
 		}
 	],
-	"aboutpara": "Recent graduate of the Rochester Institute of Technology, where I was focusing on a Software Engineering degree and an Economics immersion. With 2+ years of internship and part-time experience in full-stack development and startup environments, I am looking forward to another exciting opportunity where I can make a meaningful impact. Currently a Software Development Engineer II @ GoDaddy!"
+	"aboutpara1": "Software Engineering graduate of the Rochester Institute of Technology",
+	"aboutpara2": "Currently a Software Development Engineer II @ GoDaddy",
+	"aboutpara3": "With 2+ years of experience in full-stack development and startup environments, I'm confident I can use my skills to make a meaningful impact."
 }
