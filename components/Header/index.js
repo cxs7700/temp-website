@@ -21,7 +21,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
 					<>
 						<div className="flex items-center justify-between p-2 laptop:p-0">
 							<h1 onClick={() => router.push('/')} className="font-medium cursor-pointer p-2 laptop:p-0">
-								{data.name}.
+								{data.name}
 							</h1>
 
 							<div className="flex items-center">
@@ -85,7 +85,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
 				} dark:text-white top-0 z-10 tablet:flex`}
 			>
 				<h1 onClick={() => router.push('/')} className="font-medium cursor-pointer mob:p-2 laptop:p-0">
-					{data.name}.
+					{data.name}
 				</h1>
 				{!isBlog ? (
 					<div className="flex">
