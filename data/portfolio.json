@@ -5,7 +5,7 @@
 	"headerTaglineThree": "developer and freelancer",
 	"headerTaglineFour": " based in New York, NY.",
 	"showBlog": false,
-	"darkMode": false,
+	"darkMode": true,
 	"socials": [
 		{ "id": "1", "title": "Github", "link": "https://github.com/cxs7700" },
 		{ "id": "2", "title": "LinkedIn", "link": "https://www.linkedin.com/in/christophersavan/" },
